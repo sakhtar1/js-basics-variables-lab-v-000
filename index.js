@@ -2,4 +2,4 @@
 
 let companyName = 'Scuber';
 
-const companyName = 'Scuber';
+const companyName = 'specialCompany';
